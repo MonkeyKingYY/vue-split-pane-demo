@@ -1,0 +1,255 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4033737 */
+  src: url('iconfont.woff2?t=1688376711948') format('woff2'),
+       url('iconfont.woff?t=1688376711948') format('woff'),
+       url('iconfont.ttf?t=1688376711948') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-DB2:before {
+  content: "\e612";
+}
+
+.icon-sqlserver:before {
+  content: "\e65c";
+}
+
+.icon-zuixiaohua:before {
+  content: "\e65a";
+}
+
+.icon-zuidahua:before {
+  content: "\e60d";
+}
+
+.icon-goldendb:before {
+  content: "\e609";
+}
+
+.icon-antd:before {
+  content: "\e677";
+}
+
+.icon-wenjianjia_view:before {
+  content: "\e7b9";
+}
+
+.icon-wenjianjiashitu:before {
+  content: "\11c91";
+}
+
+.icon-morendewenjianjialiebiaoliu:before {
+  content: "\e613";
+}
+
+.icon-wenjianjia_table:before {
+  content: "\e653";
+}
+
+.icon-huoquwenjianjialiebiao-qianse:before {
+  content: "\e6bc";
+}
+
+.icon-liebiao:before {
+  content: "\e610";
+}
+
+.icon-jiekouwendangliebiao:before {
+  content: "\e67f";
+}
+
+.icon-wendangliebiao:before {
+  content: "\e7cd";
+}
+
+.icon-wendangliebiao1:before {
+  content: "\e7d5";
+}
+
+.icon-wenjianjia:before {
+  content: "\e669";
+}
+
+.icon-wenjianjia_mode:before {
+  content: "\e721";
+}
+
+.icon-GoldenDB2:before {
+  content: "\e68f";
+}
+
+.icon-GoldenDB1:before {
+  content: "\e6df";
+}
+
+.icon-goldendb1:before {
+  content: "\e621";
+}
+
+.icon-guanlimoshi:before {
+  content: "\e652";
+}
+
+.icon-script:before {
+  content: "\e959";
+}
+
+.icon-zhihang:before {
+  content: "\e62a";
+}
+
+.icon-shujukuyonghu:before {
+  content: "\e66f";
+}
+
+.icon-baocun1:before {
+  content: "\e60a";
+}
+
+.icon-bendiwenjianjiashangchuan:before {
+  content: "\e691";
+}
+
+.icon-wenjianjia-xiazai_folder-download:before {
+  content: "\e7e2";
+}
+
+.icon-geshihua1:before {
+  content: "\e94f";
+}
+
+.icon-o-gbase:before {
+  content: "\e67d";
+}
+
+.icon-GBase:before {
+  content: "\e965";
+}
+
+.icon-connection-OracleCDB:before {
+  content: "\e605";
+}
+
+.icon-Oracle:before {
+  content: "\ea23";
+}
+
+.icon-datatype_time:before {
+  content: "\e74f";
+}
+
+.icon-datatype_int:before {
+  content: "\e68b";
+}
+
+.icon-geshihua:before {
+  content: "\e63d";
+}
+
+.icon-datatype_varchar:before {
+  content: "\e6da";
+}
+
+.icon-shujuku:before {
+  content: "\e626";
+}
+
+.icon-oracle-01:before {
+  content: "\e645";
+}
+
+.icon-guanxixingshujukuoceanbase:before {
+  content: "\e73c";
+}
+
+.icon-MongoDB:before {
+  content: "\e745";
+}
+
+.icon-redis:before {
+  content: "\e601";
+}
+
+.icon-dameng:before {
+  content: "\e664";
+}
+
+.icon-CrateDB:before {
+  content: "\e665";
+}
+
+.icon-redis1:before {
+  content: "\e668";
+}
+
+.icon-ClickHouse:before {
+  content: "\e6b8";
+}
+
+.icon-trino-ko_tiny-alt:before {
+  content: "\e603";
+}
+
+.icon-presto-4:before {
+  content: "\e61b";
+}
+
+.icon-postgresql:before {
+  content: "\e71f";
+}
+
+.icon-Trino:before {
+  content: "\e68a";
+}
+
+.icon-a-ziyuan3:before {
+  content: "\e663";
+}
+
+.icon-Kylin:before {
+  content: "\e657";
+}
+
+.icon-icon_presto:before {
+  content: "\e63a";
+}
+
+.icon-sql:before {
+  content: "\e6d1";
+}
+
+.icon-shezhi:before {
+  content: "\e629";
+}
+
+.icon-lianjie:before {
+  content: "\e628";
+}
+
+.icon-functions:before {
+  content: "\e631";
+}
+
+.icon-shujukushitu:before {
+  content: "\e604";
+}
+
+.icon-myevents:before {
+  content: "\e614";
+}
+
+.icon-shujukubiao:before {
+  content: "\e600";
+}
+
+.icon-mysql:before {
+  content: "\e627";
+}
+
